@@ -51,7 +51,6 @@
     "i18next-http-backend": "^2.2.1",
     "js-cookie": "^3.0.5",
     "mysql2": "^3.2.4",
-    "next": "^13.3.0",
     "node-sass": "^9.0.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
@@ -99,7 +98,6 @@
     "yet-another-react-lightbox": "^3.10.0"
   },
   "scripts": {
-    "next": "next",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
